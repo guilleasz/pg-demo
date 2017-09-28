@@ -10,3 +10,4 @@ App para utilizar en la clase de node-postgres. Clonar el repo y correr el coman
 - Refactorear el código actual para que funcione con el paquete `pg`
 - Mostrar como [sanitizar las variables](https://node-postgres.com/features/queries#parameterized-query) en `pg` cuando las interpolamos al query
 - Agregar un formulario y ruta para agregar usuarios
+- Hacer un unified error handler middleware con express
